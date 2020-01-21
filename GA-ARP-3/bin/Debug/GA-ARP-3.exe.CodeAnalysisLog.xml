@@ -1,0 +1,208 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="c:\program files (x86)\microsoft visual studio\2019\community\team tools\static analysis tools\fxcop\Xml\CodeAnalysisReport.xsl"?>
+<FxCopReport Version="16.0">
+ <Targets>
+  <Target Name="C:\Users\basri07\Desktop\MOPSO-Vehicle-Routing-Problem-master\MOPSO-Vehicle-Routing-Problem-master (1)\MOPSO-Vehicle-Routing-Problem-master\GA-ARP-3\bin\Debug\GA-ARP-3.exe">
+   <Modules>
+    <Module Name="ga-arp-3.exe">
+     <Namespaces>
+      <Namespace Name="GA_ARP_3">
+       <Types>
+        <Type Name="_GA_ARP_3DataSet" Kind="Class" Accessibility="Public" ExternallyVisible="True">
+         <Messages>
+          <Message TypeName="ImplementISerializableCorrectly" Category="Microsoft.Usage" CheckId="CA2240" Status="Active" Created="2020-01-21 05:21:31Z" FixCategory="NonBreaking">
+           <Issue Certainty="60" Level="Error">Add an implementation of GetObjectData to type '_GA_ARP_3DataSet'.</Issue>
+          </Message>
+         </Messages>
+        </Type>
+        <Type Name="_GA_ARP_3DataSet+MüsterilerDataTable" Kind="Class" Accessibility="Public" ExternallyVisible="True">
+         <Messages>
+          <Message TypeName="ImplementISerializableCorrectly" Category="Microsoft.Usage" CheckId="CA2240" Status="Active" Created="2020-01-21 05:21:31Z" FixCategory="NonBreaking">
+           <Issue Certainty="60" Level="Error">Add an implementation of GetObjectData to type '_GA_ARP_3DataSet.MüsterilerDataTable'.</Issue>
+          </Message>
+         </Messages>
+        </Type>
+        <Type Name="_GA_ARP_3DataSet1" Kind="Class" Accessibility="Public" ExternallyVisible="True">
+         <Messages>
+          <Message TypeName="ImplementISerializableCorrectly" Category="Microsoft.Usage" CheckId="CA2240" Status="Active" Created="2020-01-21 05:21:31Z" FixCategory="NonBreaking">
+           <Issue Certainty="60" Level="Error">Add an implementation of GetObjectData to type '_GA_ARP_3DataSet1'.</Issue>
+          </Message>
+         </Messages>
+        </Type>
+        <Type Name="_GA_ARP_3DataSet1+MüsteriDataTable" Kind="Class" Accessibility="Public" ExternallyVisible="True">
+         <Messages>
+          <Message TypeName="ImplementISerializableCorrectly" Category="Microsoft.Usage" CheckId="CA2240" Status="Active" Created="2020-01-21 05:21:31Z" FixCategory="NonBreaking">
+           <Issue Certainty="60" Level="Error">Add an implementation of GetObjectData to type '_GA_ARP_3DataSet1.MüsteriDataTable'.</Issue>
+          </Message>
+         </Messages>
+        </Type>
+        <Type Name="_GA_ARP_3DataSet10" Kind="Class" Accessibility="Public" ExternallyVisible="True">
+         <Messages>
+          <Message TypeName="ImplementISerializableCorrectly" Category="Microsoft.Usage" CheckId="CA2240" Status="Active" Created="2020-01-21 05:21:31Z" FixCategory="NonBreaking">
+           <Issue Certainty="60" Level="Error">Add an implementation of GetObjectData to type '_GA_ARP_3DataSet10'.</Issue>
+          </Message>
+         </Messages>
+        </Type>
+        <Type Name="_GA_ARP_3DataSet10+MüsterilerDataTable" Kind="Class" Accessibility="Public" ExternallyVisible="True">
+         <Messages>
+          <Message TypeName="ImplementISerializableCorrectly" Category="Microsoft.Usage" CheckId="CA2240" Status="Active" Created="2020-01-21 05:21:31Z" FixCategory="NonBreaking">
+           <Issue Certainty="60" Level="Error">Add an implementation of GetObjectData to type '_GA_ARP_3DataSet10.MüsterilerDataTable'.</Issue>
+          </Message>
+         </Messages>
+        </Type>
+        <Type Name="_GA_ARP_3DataSet11" Kind="Class" Accessibility="Public" ExternallyVisible="True">
+         <Messages>
+          <Message TypeName="ImplementISerializableCorrectly" Category="Microsoft.Usage" CheckId="CA2240" Status="Active" Created="2020-01-21 05:21:31Z" FixCategory="NonBreaking">
+           <Issue Certainty="60" Level="Error">Add an implementation of GetObjectData to type '_GA_ARP_3DataSet11'.</Issue>
+          </Message>
+         </Messages>
+        </Type>
+        <Type Name="_GA_ARP_3DataSet11+AracDataTable" Kind="Class" Accessibility="Public" ExternallyVisible="True">
+         <Messages>
+          <Message TypeName="ImplementISerializableCorrectly" Category="Microsoft.Usage" CheckId="CA2240" Status="Active" Created="2020-01-21 05:21:31Z" FixCategory="NonBreaking">
+           <Issue Certainty="60" Level="Error">Add an implementation of GetObjectData to type '_GA_ARP_3DataSet11.AracDataTable'.</Issue>
+          </Message>
+         </Messages>
+        </Type>
+        <Type Name="_GA_ARP_3DataSet2" Kind="Class" Accessibility="Public" ExternallyVisible="True">
+         <Messages>
+          <Message TypeName="ImplementISerializableCorrectly" Category="Microsoft.Usage" CheckId="CA2240" Status="Active" Created="2020-01-21 05:21:31Z" FixCategory="NonBreaking">
+           <Issue Certainty="60" Level="Error">Add an implementation of GetObjectData to type '_GA_ARP_3DataSet2'.</Issue>
+          </Message>
+         </Messages>
+        </Type>
+        <Type Name="_GA_ARP_3DataSet2+MüsterilerDataTable" Kind="Class" Accessibility="Public" ExternallyVisible="True">
+         <Messages>
+          <Message TypeName="ImplementISerializableCorrectly" Category="Microsoft.Usage" CheckId="CA2240" Status="Active" Created="2020-01-21 05:21:31Z" FixCategory="NonBreaking">
+           <Issue Certainty="60" Level="Error">Add an implementation of GetObjectData to type '_GA_ARP_3DataSet2.MüsterilerDataTable'.</Issue>
+          </Message>
+         </Messages>
+        </Type>
+        <Type Name="_GA_ARP_3DataSet3" Kind="Class" Accessibility="Public" ExternallyVisible="True">
+         <Messages>
+          <Message TypeName="ImplementISerializableCorrectly" Category="Microsoft.Usage" CheckId="CA2240" Status="Active" Created="2020-01-21 05:21:31Z" FixCategory="NonBreaking">
+           <Issue Certainty="60" Level="Error">Add an implementation of GetObjectData to type '_GA_ARP_3DataSet3'.</Issue>
+          </Message>
+         </Messages>
+        </Type>
+        <Type Name="_GA_ARP_3DataSet3+MüsterilerDataTable" Kind="Class" Accessibility="Public" ExternallyVisible="True">
+         <Messages>
+          <Message TypeName="ImplementISerializableCorrectly" Category="Microsoft.Usage" CheckId="CA2240" Status="Active" Created="2020-01-21 05:21:31Z" FixCategory="NonBreaking">
+           <Issue Certainty="60" Level="Error">Add an implementation of GetObjectData to type '_GA_ARP_3DataSet3.MüsterilerDataTable'.</Issue>
+          </Message>
+         </Messages>
+        </Type>
+        <Type Name="_GA_ARP_3DataSet4" Kind="Class" Accessibility="Public" ExternallyVisible="True">
+         <Messages>
+          <Message TypeName="ImplementISerializableCorrectly" Category="Microsoft.Usage" CheckId="CA2240" Status="Active" Created="2020-01-21 05:21:31Z" FixCategory="NonBreaking">
+           <Issue Certainty="60" Level="Error">Add an implementation of GetObjectData to type '_GA_ARP_3DataSet4'.</Issue>
+          </Message>
+         </Messages>
+        </Type>
+        <Type Name="_GA_ARP_3DataSet4+MüsterilerDataTable" Kind="Class" Accessibility="Public" ExternallyVisible="True">
+         <Messages>
+          <Message TypeName="ImplementISerializableCorrectly" Category="Microsoft.Usage" CheckId="CA2240" Status="Active" Created="2020-01-21 05:21:31Z" FixCategory="NonBreaking">
+           <Issue Certainty="60" Level="Error">Add an implementation of GetObjectData to type '_GA_ARP_3DataSet4.MüsterilerDataTable'.</Issue>
+          </Message>
+         </Messages>
+        </Type>
+        <Type Name="_GA_ARP_3DataSet5" Kind="Class" Accessibility="Public" ExternallyVisible="True">
+         <Messages>
+          <Message TypeName="ImplementISerializableCorrectly" Category="Microsoft.Usage" CheckId="CA2240" Status="Active" Created="2020-01-21 05:21:31Z" FixCategory="NonBreaking">
+           <Issue Certainty="60" Level="Error">Add an implementation of GetObjectData to type '_GA_ARP_3DataSet5'.</Issue>
+          </Message>
+         </Messages>
+        </Type>
+        <Type Name="_GA_ARP_3DataSet5+MüsterilerDataTable" Kind="Class" Accessibility="Public" ExternallyVisible="True">
+         <Messages>
+          <Message TypeName="ImplementISerializableCorrectly" Category="Microsoft.Usage" CheckId="CA2240" Status="Active" Created="2020-01-21 05:21:31Z" FixCategory="NonBreaking">
+           <Issue Certainty="60" Level="Error">Add an implementation of GetObjectData to type '_GA_ARP_3DataSet5.MüsterilerDataTable'.</Issue>
+          </Message>
+         </Messages>
+        </Type>
+        <Type Name="_GA_ARP_3DataSet7" Kind="Class" Accessibility="Public" ExternallyVisible="True">
+         <Messages>
+          <Message TypeName="ImplementISerializableCorrectly" Category="Microsoft.Usage" CheckId="CA2240" Status="Active" Created="2020-01-21 05:21:31Z" FixCategory="NonBreaking">
+           <Issue Certainty="60" Level="Error">Add an implementation of GetObjectData to type '_GA_ARP_3DataSet7'.</Issue>
+          </Message>
+         </Messages>
+        </Type>
+        <Type Name="_GA_ARP_3DataSet7+MüsterilerDataTable" Kind="Class" Accessibility="Public" ExternallyVisible="True">
+         <Messages>
+          <Message TypeName="ImplementISerializableCorrectly" Category="Microsoft.Usage" CheckId="CA2240" Status="Active" Created="2020-01-21 05:21:31Z" FixCategory="NonBreaking">
+           <Issue Certainty="60" Level="Error">Add an implementation of GetObjectData to type '_GA_ARP_3DataSet7.MüsterilerDataTable'.</Issue>
+          </Message>
+         </Messages>
+        </Type>
+        <Type Name="_GA_ARP_3DataSet8" Kind="Class" Accessibility="Public" ExternallyVisible="True">
+         <Messages>
+          <Message TypeName="ImplementISerializableCorrectly" Category="Microsoft.Usage" CheckId="CA2240" Status="Active" Created="2020-01-21 05:21:31Z" FixCategory="NonBreaking">
+           <Issue Certainty="60" Level="Error">Add an implementation of GetObjectData to type '_GA_ARP_3DataSet8'.</Issue>
+          </Message>
+         </Messages>
+        </Type>
+        <Type Name="_GA_ARP_3DataSet8+MüsterilerDataTable" Kind="Class" Accessibility="Public" ExternallyVisible="True">
+         <Messages>
+          <Message TypeName="ImplementISerializableCorrectly" Category="Microsoft.Usage" CheckId="CA2240" Status="Active" Created="2020-01-21 05:21:31Z" FixCategory="NonBreaking">
+           <Issue Certainty="60" Level="Error">Add an implementation of GetObjectData to type '_GA_ARP_3DataSet8.MüsterilerDataTable'.</Issue>
+          </Message>
+         </Messages>
+        </Type>
+        <Type Name="_GA_ARP_3DataSet9" Kind="Class" Accessibility="Public" ExternallyVisible="True">
+         <Messages>
+          <Message TypeName="ImplementISerializableCorrectly" Category="Microsoft.Usage" CheckId="CA2240" Status="Active" Created="2020-01-21 05:21:31Z" FixCategory="NonBreaking">
+           <Issue Certainty="60" Level="Error">Add an implementation of GetObjectData to type '_GA_ARP_3DataSet9'.</Issue>
+          </Message>
+         </Messages>
+        </Type>
+        <Type Name="_GA_ARP_3DataSet9+MüsterilerDataTable" Kind="Class" Accessibility="Public" ExternallyVisible="True">
+         <Messages>
+          <Message TypeName="ImplementISerializableCorrectly" Category="Microsoft.Usage" CheckId="CA2240" Status="Active" Created="2020-01-21 05:21:31Z" FixCategory="NonBreaking">
+           <Issue Certainty="60" Level="Error">Add an implementation of GetObjectData to type '_GA_ARP_3DataSet9.MüsterilerDataTable'.</Issue>
+          </Message>
+         </Messages>
+        </Type>
+       </Types>
+      </Namespace>
+     </Namespaces>
+    </Module>
+   </Modules>
+  </Target>
+ </Targets>
+ <Rules>
+  <Rule TypeName="ImplementISerializableCorrectly" Category="Microsoft.Usage" CheckId="CA2240">
+   <Name>Implement ISerializable correctly</Name>
+   <Description>If a type is assignable to ISerializable, it should implement GetObjectData. For unsealed types, the GetObjectData method should be callable and overridable by derived types.</Description>
+   <Resolution Name="Default">Add an implementation of GetObjectData to type {0}.</Resolution>
+   <Owner />
+   <Url>http://msdn.microsoft.com/library/ms182342.aspx</Url>
+   <Email>[none]</Email>
+   <MessageLevel Certainty="60">Error</MessageLevel>
+   <File Name="usagerules.dll" Version="16.0.0.0" />
+  </Rule>
+ </Rules>
+ <Localized>
+  <String Key="Category">Category</String>
+  <String Key="Certainty">Certainty</String>
+  <String Key="CollapseAll">Collapse All</String>
+  <String Key="CheckId">Check Id</String>
+  <String Key="Error">Error</String>
+  <String Key="Errors">error(s)</String>
+  <String Key="ExpandAll">Expand All</String>
+  <String Key="Help">Help</String>
+  <String Key="Line">Line</String>
+  <String Key="Messages">message(s)</String>
+  <String Key="LocationNotStoredInPdb">[Location not stored in Pdb]</String>
+  <String Key="Project">Project</String>
+  <String Key="Resolution">Resolution</String>
+  <String Key="Rule">Rule</String>
+  <String Key="RuleFile">Rule File</String>
+  <String Key="RuleDescription">Rule Description</String>
+  <String Key="Source">Source</String>
+  <String Key="Status">Status</String>
+  <String Key="Target">Target</String>
+  <String Key="Warning">Warning</String>
+  <String Key="Warnings">warning(s)</String>
+  <String Key="ReportTitle">Code Analysis Report</String>
+ </Localized>
+</FxCopReport>

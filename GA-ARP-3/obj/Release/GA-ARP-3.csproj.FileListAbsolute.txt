@@ -1,0 +1,16 @@
+C:\Users\basri07\Desktop\MOPSO-Vehicle-Routing-Problem-master\MOPSO-Vehicle-Routing-Problem-master (1)\MOPSO-Vehicle-Routing-Problem-master\GA-ARP-3\bin\Release\GA-ARP-3.exe.config
+C:\Users\basri07\Desktop\MOPSO-Vehicle-Routing-Problem-master\MOPSO-Vehicle-Routing-Problem-master (1)\MOPSO-Vehicle-Routing-Problem-master\GA-ARP-3\bin\Release\GA-ARP-3.exe
+C:\Users\basri07\Desktop\MOPSO-Vehicle-Routing-Problem-master\MOPSO-Vehicle-Routing-Problem-master (1)\MOPSO-Vehicle-Routing-Problem-master\GA-ARP-3\bin\Release\GA-ARP-3.pdb
+C:\Users\basri07\Desktop\MOPSO-Vehicle-Routing-Problem-master\MOPSO-Vehicle-Routing-Problem-master (1)\MOPSO-Vehicle-Routing-Problem-master\GA-ARP-3\bin\Release\MetroFramework.Design.dll
+C:\Users\basri07\Desktop\MOPSO-Vehicle-Routing-Problem-master\MOPSO-Vehicle-Routing-Problem-master (1)\MOPSO-Vehicle-Routing-Problem-master\GA-ARP-3\bin\Release\MetroFramework.dll
+C:\Users\basri07\Desktop\MOPSO-Vehicle-Routing-Problem-master\MOPSO-Vehicle-Routing-Problem-master (1)\MOPSO-Vehicle-Routing-Problem-master\GA-ARP-3\bin\Release\MetroFramework.Fonts.dll
+C:\Users\basri07\Desktop\MOPSO-Vehicle-Routing-Problem-master\MOPSO-Vehicle-Routing-Problem-master (1)\MOPSO-Vehicle-Routing-Problem-master\GA-ARP-3\obj\Release\GA-ARP-3.csprojAssemblyReference.cache
+C:\Users\basri07\Desktop\MOPSO-Vehicle-Routing-Problem-master\MOPSO-Vehicle-Routing-Problem-master (1)\MOPSO-Vehicle-Routing-Problem-master\GA-ARP-3\obj\Release\GA_ARP_3.ANASAYFA.resources
+C:\Users\basri07\Desktop\MOPSO-Vehicle-Routing-Problem-master\MOPSO-Vehicle-Routing-Problem-master (1)\MOPSO-Vehicle-Routing-Problem-master\GA-ARP-3\obj\Release\GA_ARP_3.ARAÇ_EKLE.resources
+C:\Users\basri07\Desktop\MOPSO-Vehicle-Routing-Problem-master\MOPSO-Vehicle-Routing-Problem-master (1)\MOPSO-Vehicle-Routing-Problem-master\GA-ARP-3\obj\Release\GA_ARP_3.Form1.resources
+C:\Users\basri07\Desktop\MOPSO-Vehicle-Routing-Problem-master\MOPSO-Vehicle-Routing-Problem-master (1)\MOPSO-Vehicle-Routing-Problem-master\GA-ARP-3\obj\Release\GA_ARP_3.MÜŞTERİLER.resources
+C:\Users\basri07\Desktop\MOPSO-Vehicle-Routing-Problem-master\MOPSO-Vehicle-Routing-Problem-master (1)\MOPSO-Vehicle-Routing-Problem-master\GA-ARP-3\obj\Release\GA_ARP_3.Properties.Resources.resources
+C:\Users\basri07\Desktop\MOPSO-Vehicle-Routing-Problem-master\MOPSO-Vehicle-Routing-Problem-master (1)\MOPSO-Vehicle-Routing-Problem-master\GA-ARP-3\obj\Release\GA-ARP-3.csproj.GenerateResource.cache
+C:\Users\basri07\Desktop\MOPSO-Vehicle-Routing-Problem-master\MOPSO-Vehicle-Routing-Problem-master (1)\MOPSO-Vehicle-Routing-Problem-master\GA-ARP-3\obj\Release\GA-ARP-3.csproj.CopyComplete
+C:\Users\basri07\Desktop\MOPSO-Vehicle-Routing-Problem-master\MOPSO-Vehicle-Routing-Problem-master (1)\MOPSO-Vehicle-Routing-Problem-master\GA-ARP-3\obj\Release\GA-ARP-3.exe
+C:\Users\basri07\Desktop\MOPSO-Vehicle-Routing-Problem-master\MOPSO-Vehicle-Routing-Problem-master (1)\MOPSO-Vehicle-Routing-Problem-master\GA-ARP-3\obj\Release\GA-ARP-3.pdb
